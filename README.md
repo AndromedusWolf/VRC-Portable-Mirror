@@ -13,3 +13,6 @@ It is VERY important that you have the following two packages downloaded already
 1. You will need [Udonsharp](https://github.com/vrchat-community/UdonSharp)
 
 2. You will need [VRCPlayersOnlyMirror](https://github.com/acertainbluecat/VRCPlayersOnlyMirror)
+
+
+## Set-Up
