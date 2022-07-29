@@ -16,3 +16,30 @@ It is VERY important that you have the following two packages downloaded already
 
 
 ## Set-Up
+
+1. Ensure you have imported both UdonSharp and VRCPlayersOnlyMirror packages into your Project window
+
+2. Download and import the VRC Portable Mirror package into your Project window
+
+3. Go into the Portable Mirror folder and drag the prefab into the scene. Tada! That's all you need to do! Your portable mirror should be ready to go!
+
+![Desktop Screenshot 2022 07 29 - 18 16 24 45](https://user-images.githubusercontent.com/99851805/181853264-6a1e854e-37c6-4ba1-b913-215f413f7649.jpg)
+
+
+## Modifications
+
+The mirror respawn button included in the prefab is a very simple and basic one. If you do not wish to use this, but rather your own, follow these steps below:
+
+1. If your button does not have a collider, add one.
+
+2. Add an Udon Behaviour to your button.
+
+3. Navigate to the "Scripts" folder and drag the "ResetMirror" U# Script into the Udon Behaviour field.
+
+![Desktop Screenshot 2022 07 29 - 18 44 00 05](https://user-images.githubusercontent.com/99851805/181854955-9bbbace7-e690-4fb0-952a-5d3a2c10544f.jpg)
+
+4. Follow the diagram below to know what to put where.
+
+![Desktop Screenshot 2022 07 29 - 18 38 36 21](https://user-images.githubusercontent.com/99851805/181854630-e46062b8-4e82-4485-8686-1b4bbd8b3500.jpg)
+
+Congrats! You should hopefully now have a functional reset/respawn button.
