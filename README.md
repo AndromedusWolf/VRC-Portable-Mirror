@@ -40,6 +40,6 @@ The mirror respawn button included in the prefab is a very simple and basic one.
 
 4. Follow the diagram below to know what to put where.
 
-![Desktop Screenshot 2022 07 29 - 18 38 36 21](https://user-images.githubusercontent.com/99851805/181854630-e46062b8-4e82-4485-8686-1b4bbd8b3500.jpg)
+![Desktop Screenshot 2022 07 30 - 22 57 53 59](https://user-images.githubusercontent.com/99851805/182036842-e6f2ed44-3221-4bfe-a69f-ac1baed12c70.jpg)
 
 Congrats! You should hopefully now have a functional reset/respawn button.
