@@ -1,5 +1,9 @@
 # VRC Portable Mirror
 
+## V2 Update
+- Added player tracking system (VR Only)
+- Revamped UI Menu
+
 ## Overview
 This is a portable mirror prefab that can plopped into your VRChat world. It is a simple object with a UI menu that allows the local player to bring a mirror anywhere around with them in the world. The mirror has three quality settings users can toggle between; High Quality, Low Quality, Transparent. There is also two sliders that will allow the local player to freely resize the width and height of the mirrors.
 
